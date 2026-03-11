@@ -1,4 +1,5 @@
 # SmartEdz – Institute Management ERP Platform
+## SmartEdz ERP Software for Schools and Colleges
 
 SmartEdz is a web and mobile based institute management ERP platform designed to streamline academic, administrative, financial and communication processes for schools and colleges.
 
